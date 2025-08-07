@@ -1,0 +1,51 @@
+🛍️ Super Store Sales Dashboard
+📊 Overview:
+This Power BI dashboard provides a comprehensive overview of sales performance from 2014 to 2017 using the Superstore dataset. It is designed for business stakeholders to quickly assess key metrics, regional performance, and time-based trends.
+
+📌 Key Features:
+Interactive Date Range Filter
+Allows users to slice the data by Order Date (2014–2017).
+
+KPI Cards
+
+Total Sales: 2.30M
+
+Total Quantity: 38K
+
+Total Profit: 286.40K
+
+Bar Chart by Region
+Compares sales across:
+
+West (0.73M)
+
+East (0.68M)
+
+Central (0.50M)
+
+South (0.39M)
+
+Yearly Sales Trend (Bar Chart)
+Highlights growth over four years.
+
+Line Chart (Time Series)
+Plots:
+
+Sum of Quantity
+
+Sum of Profit
+Useful for identifying trends, dips, and anomalies.
+
+🎨 Design Choices:
+Dark gradient theme for high contrast visuals.
+
+Color-coded bars and lines for easy comparison.
+
+Compact layout for a one-screen overview.
+
+Drill-through filters enabled for deeper exploration.
+
+🛠 Tools Used:
+Power BI Desktop
+Superstore Dataset
+
